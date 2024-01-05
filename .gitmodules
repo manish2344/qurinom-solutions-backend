@@ -1,0 +1,3 @@
+[submodule "food-front"]
+	path = food-front
+	url = https://github.com/manish2344/food-front.git
